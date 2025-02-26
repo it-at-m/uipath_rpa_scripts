@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Ihre Postleitzahl",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "VJl9JeIR6Eu8uz_wn1DL6g",
+  "Reference": "gMm8oWMEXkCXwsw2y3sZGA/VJl9JeIR6Eu8uz_wn1DL6g",
+  "ParentRef": "gMm8oWMEXkCXwsw2y3sZGA/o-hBZHk-EU-tDtoUUSu86Q",
+  "Created": "2025-02-04T09:51:52.9757125Z",
+  "Updated": "2025-02-04T09:51:52.9757125Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

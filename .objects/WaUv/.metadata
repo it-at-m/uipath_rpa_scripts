@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox CUserskorbinian.zacherlAppDataLocalProgramsCommonUiPathUiPath.Common",
+  "Type": "App",
+  "Id": "WaUv3D9cJUG6S47yLk8tGg",
+  "Reference": "gMm8oWMEXkCXwsw2y3sZGA/WaUv3D9cJUG6S47yLk8tGg",
+  "Created": "2025-02-04T09:48:29.316087Z",
+  "Updated": "2025-02-04T09:48:29.316087Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

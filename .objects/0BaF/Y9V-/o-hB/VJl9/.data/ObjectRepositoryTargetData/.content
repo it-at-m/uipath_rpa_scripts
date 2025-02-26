@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7qgEjQT17kGUtGbdElq6bA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verivox.de" CVScreenId="6deca813-c6c0-4cc1-81ab-33473fdd10bd" CvElementArea="464, 509, 328, 66" CvType="InputBox" DesignTimeRectangle="465, 509, 327, 65" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='tel' class='float-label-input calc-input' placeholder='z.B. 12345' aaname='Ihre Postleitzahl' /&gt;" Guid="7e04f779-5d58-4368-973c-ef72c5895422" ScopeSelectorArgument="&lt;html app='firefox.exe' title='VERIVOX | Tarife vergleichen &amp;amp; stressfrei sparen!' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6deca813-c6c0-4cc1-81ab-33473fdd10bd" CvElementArea="464, 509, 328, 66" CvType="InputBox" DesignTimeRectangle="465, 511, 325, 62" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='mps-tab-box-1' tag='LABEL' type='' class='float-label calc-input-label' aaname='Ihre Postleitzahl' check:innerText='Ihre Postleitzahl' /&gt;" Guid="01afeac9-1bca-441c-8231-d1b5ae4fb19d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="94122748fb545756f7f0866da2e034e0.png" xmlns="">0SCEi2YzDqka9sTalaXVU3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
