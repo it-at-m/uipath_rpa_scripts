@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryScreenData ContentHash="xzQFXH6yQ0-b_8D1fnG_4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryScreenData.Data>
-    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1048" BrowserType="Firefox" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEzSURBVDhPjZMtT0NBEEVfqKjA1NVU4Z5psLXIOlRtbR0ejyDpH2iQTXD1FXhcHaoKW4HAkRC4Z3I3nbd83uSkO3dmZ3ffbpta77cnQ9Gaoe3fpcKRWImD+Kh4EfeidXlXSrDis6gn1tDo1NOOknmTil4Fzb5rSK7vOWfiXLQEd6IU7aKrpPFj8mFlvy/KUdcYVw4KYxcuKn9i/zJ5FxhsJxcuXTgQb/b2eEjjTe1hPtgEttezz9fHu3bMBy9NwwspyNuCqf2p45HjfNzwQgp64iklN8lfR5Gk8c75ra2jZM6cBLY5sB93r9+xczDD60gmq5UVYOFUSPHSPg8q3sMXKTFxEexF2QU3xUT8uKUfRYELgRvZCl4hMU3+/oOpKD/v3Cwe07+kYrbNtdFsLuI4XTXNJ1mtaky+GDaUAAAAAElFTkSuQmCC" Selector="&lt;html app='firefox.exe' title='VERIVOX | Tarife vergleichen &amp;amp; stressfrei sparen!' /&gt;" Url="https://www.verivox.de/" Version="V2">
-      <imageRef attrName="InformativeScreenshot" originalValue="d1286ebe78a5165d64320c74cd0dd0eb.png" xmlns="">07wd-JkMzqk64-bZKQQhvjA</imageRef>
-    </TargetApp>
-  </ObjectRepositoryScreenData.Data>
-</ObjectRepositoryScreenData>
